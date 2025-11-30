@@ -46,7 +46,7 @@ This makes the TTP223 ideal for **touch lamps**, **smart switches**, **hidden bu
 
 Project repository:  
 👉 _Coming soon to PropelX Labs GitHub!_ 🚀  
-(Replace this with your repo link when ready.)
+https://github.com/propelxlabs/SensorSunday_5_TTP223_Touch
 
 Includes:
 
